@@ -6,5 +6,5 @@ This repository is dedicated to building and deploying the Hackiethon Widget. It
 
 The main repository for the Hackiethon Widget project can be found here:
 
-[**Hackiethon2025 - TaskPals**]([https://github.com/your-username/your-main-repo](https://github.com/CWTWIS/Hackiethon25))
+[**Hackiethon2025 - TaskPals**](https://github.com/CWTWIS/Hackiethon25)
 
